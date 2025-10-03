@@ -29,6 +29,7 @@ your-vault/
             └── manifest.json
 ```
 
+<img width="2060" height="1413" alt="screenshot" src="https://github.com/user-attachments/assets/8102d3a1-d360-4f79-9759-84427456c1ed" />
 
 
 **Developer**
